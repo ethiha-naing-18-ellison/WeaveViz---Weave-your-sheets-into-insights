@@ -1,0 +1,30 @@
+Date,Customer_ID,Customer_Name,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Pct,Revenue,Sales_Rep,Region,Channel
+2024-01-01,C001,Acme Corp,Electronics,Laptop Pro 15,2,1299.99,0.1,2339.98,John Smith,North America,Direct
+2024-01-01,C002,Tech Solutions,Electronics,Wireless Mouse,5,29.99,0.0,149.95,Sarah Johnson,North America,Online
+2024-01-02,C003,Global Systems,Software,Cloud Storage Pro,1,99.99,0.15,84.99,Mike Chen,Asia Pacific,Partner
+2024-01-02,C001,Acme Corp,Office Supplies,Desk Organizer,3,24.99,0.05,71.22,John Smith,North America,Direct
+2024-01-03,C004,Innovation Labs,Electronics,Smartphone X1,1,899.99,0.08,827.99,Lisa Wang,Europe,Direct
+2024-01-03,C005,DataFlow Inc,Software,Analytics Suite,2,499.99,0.2,799.98,Alex Rodriguez,North America,Online
+2024-01-04,C002,Tech Solutions,Office Supplies,Ergonomic Chair,1,299.99,0.1,269.99,Sarah Johnson,North America,Partner
+2024-01-04,C006,Smart Enterprises,Electronics,Tablet Air,2,449.99,0.05,854.98,Mike Chen,Asia Pacific,Direct
+2024-01-05,C007,Future Works,Software,Project Manager Pro,1,199.99,0.0,199.99,Lisa Wang,Europe,Online
+2024-01-05,C003,Global Systems,Electronics,Headphones Elite,4,179.99,0.12,633.56,Alex Rodriguez,North America,Partner
+2024-01-06,C008,Digital Dynamics,Office Supplies,Standing Desk,1,599.99,0.15,509.99,John Smith,North America,Direct
+2024-01-06,C004,Innovation Labs,Software,Database Enterprise,1,999.99,0.25,749.99,Sarah Johnson,North America,Online
+2024-01-07,C009,Tech Horizon,Electronics,Monitor 4K,2,399.99,0.1,719.98,Mike Chen,Asia Pacific,Partner
+2024-01-07,C001,Acme Corp,Office Supplies,Paper Pack,10,12.99,0.0,129.90,Lisa Wang,Europe,Direct
+2024-01-08,C010,Cloud First,Software,Security Suite,1,299.99,0.18,245.99,Alex Rodriguez,North America,Online
+2024-01-08,C005,DataFlow Inc,Electronics,Webcam HD,3,89.99,0.05,256.47,John Smith,North America,Partner
+2024-01-09,C002,Tech Solutions,Office Supplies,Whiteboard,1,149.99,0.1,134.99,Sarah Johnson,North America,Direct
+2024-01-09,C006,Smart Enterprises,Software,Backup Pro,2,79.99,0.0,159.98,Mike Chen,Asia Pacific,Online
+2024-01-10,C011,Metro Systems,Electronics,Keyboard Mechanical,1,129.99,0.08,119.59,Lisa Wang,Europe,Partner
+2024-01-10,C007,Future Works,Office Supplies,File Cabinet,1,199.99,0.15,169.99,Alex Rodriguez,North America,Direct
+2024-01-11,C012,Urban Tech,Software,Communication Hub,1,149.99,0.1,134.99,John Smith,North America,Online
+2024-01-11,C008,Digital Dynamics,Electronics,Printer Laser,1,349.99,0.12,307.99,Sarah Johnson,North America,Partner
+2024-01-12,C003,Global Systems,Office Supplies,Notebook Set,5,19.99,0.0,99.95,Mike Chen,Asia Pacific,Direct
+2024-01-12,C009,Tech Horizon,Software,Video Editor Pro,1,399.99,0.2,319.99,Lisa Wang,Europe,Online
+2024-01-13,C004,Innovation Labs,Electronics,Speaker Bluetooth,2,79.99,0.05,151.98,Alex Rodriguez,North America,Partner
+2024-01-13,C010,Cloud First,Office Supplies,Lamp Desk,1,59.99,0.0,59.99,John Smith,North America,Direct
+2024-01-14,C001,Acme Corp,Software,Office Suite,5,99.99,0.15,424.96,Sarah Johnson,North America,Online
+2024-01-14,C011,Metro Systems,Electronics,USB Hub,3,39.99,0.1,107.97,Mike Chen,Asia Pacific,Partner
+2024-01-15,C005,DataFlow Inc,Office Supplies,Pen Set,2,29.99,0.0,59.98,Lisa Wang,Europe,Direct
