@@ -1,0 +1,17 @@
+Patient_ID,Name,Age,Gender,Blood_Type,Height_cm,Weight_kg,BMI,Blood_Pressure,Heart_Rate,Cholesterol_Total,Diabetes_Status,Last_Visit
+P001,John Smith,45,Male,A+,175,80,26.1,120/80,72,180,No,2024-01-15
+P002,Sarah Johnson,32,Female,O-,162,58,22.1,110/70,68,160,No,2024-01-14
+P003,Michael Chen,28,Male,B+,180,85,26.2,125/85,75,190,No,2024-01-13
+P004,Lisa Wang,39,Female,AB+,168,65,23.0,115/75,70,170,No,2024-01-12
+P005,Alex Rodriguez,52,Male,O+,178,92,29.0,140/90,80,220,Yes,2024-01-11
+P006,Emily Davis,41,Female,A-,165,70,25.7,118/78,72,185,No,2024-01-10
+P007,David Brown,35,Male,B-,182,88,26.6,130/85,78,200,No,2024-01-09
+P008,Jessica Wilson,29,Female,O+,170,62,21.5,105/65,65,150,No,2024-01-08
+P009,Robert Taylor,48,Male,A+,176,95,30.7,145/95,85,240,Yes,2024-01-07
+P010,Amanda Anderson,36,Female,B+,163,68,25.6,112/72,69,175,No,2024-01-06
+P011,James Thomas,44,Male,O-,179,87,27.2,135/88,82,210,No,2024-01-05
+P012,Maria Garcia,31,Female,A+,167,63,22.6,108/68,66,155,No,2024-01-04
+P013,Christopher Lee,50,Male,AB-,181,90,27.5,138/88,83,225,Yes,2024-01-03
+P014,Ashley White,27,Female,O+,169,60,21.0,102/64,64,145,No,2024-01-02
+P015,Daniel Harris,47,Male,B+,177,89,28.4,142/92,87,235,Yes,2024-01-01
+

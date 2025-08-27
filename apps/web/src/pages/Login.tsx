@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Footer } from '@/components/Footer';
 import { useAuthStore } from '@/store/useAuthStore';
 
 export function Login() {
@@ -42,12 +43,16 @@ export function Login() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
-      <div className="w-full max-w-md space-y-8">
-        <div className="text-center">
-          <h1 className="text-3xl font-bold text-primary">WeaveViz</h1>
-          <p className="text-muted-foreground mt-2">Weave Your Sheets Into Insights</p>
-        </div>
+    <div className="min-h-screen flex flex-col bg-background">
+      <div className="flex-1 flex items-center justify-center">
+        <div className="w-full max-w-md space-y-8">
+          <div className="text-center">
+            <div className="flex items-center justify-center space-x-2 mb-4">
+              <img src="/logo.png" alt="WeaveViz Logo" className="w-12 h-12" />
+              <h1 className="text-3xl font-bold text-primary">WeaveViz</h1>
+            </div>
+            <p className="text-muted-foreground mt-2">Weave Your Sheets Into Insights</p>
+          </div>
 
         <Card>
           <CardHeader>
@@ -113,6 +118,10 @@ export function Login() {
           </CardContent>
         </Card>
       </div>
+      </div>
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 }

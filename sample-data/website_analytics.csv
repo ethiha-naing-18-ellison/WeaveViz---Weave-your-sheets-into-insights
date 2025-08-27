@@ -1,0 +1,17 @@
+Date,Page_URL,Page_Views,Unique_Visitors,Bounce_Rate,Avg_Session_Duration,Conversion_Rate,Traffic_Source,Device_Type,Country,Revenue
+2024-01-01,/home,1250,980,0.35,180,0.025,Organic,Desktop,United States,1250.50
+2024-01-01,/products,890,650,0.28,240,0.045,Direct,Mobile,Canada,890.25
+2024-01-01,/about,450,320,0.42,120,0.015,Social,Tablet,United Kingdom,225.75
+2024-01-02,/home,1320,1050,0.32,195,0.028,Organic,Desktop,United States,1320.80
+2024-01-02,/products,920,680,0.25,260,0.052,Direct,Mobile,Canada,920.40
+2024-01-02,/contact,380,280,0.38,90,0.020,Email,Desktop,Germany,190.00
+2024-01-03,/home,1180,920,0.34,170,0.022,Organic,Desktop,United States,1180.30
+2024-01-03,/blog,650,480,0.30,300,0.018,Social,Mobile,France,325.50
+2024-01-03,/pricing,420,310,0.20,400,0.080,Direct,Desktop,United States,840.00
+2024-01-04,/home,1400,1120,0.31,185,0.026,Organic,Desktop,United States,1400.60
+2024-01-04,/products,980,720,0.26,250,0.048,Direct,Mobile,Canada,980.80
+2024-01-04,/support,320,240,0.45,150,0.010,Email,Desktop,United Kingdom,160.00
+2024-01-05,/home,1280,1000,0.33,175,0.024,Organic,Desktop,United States,1280.40
+2024-01-05,/checkout,180,150,0.15,600,0.150,Direct,Desktop,United States,2700.00
+2024-01-05,/blog,720,540,0.28,280,0.016,Social,Mobile,Canada,360.00
+

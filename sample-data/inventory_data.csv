@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,SKU,Quantity_In_Stock,Reorder_Level,Unit_Cost,Unit_Price,Supplier,Location,Warehouse,Last_Updated
+P001,Laptop Pro 15,Electronics,LAP-001,45,10,800.00,1299.99,TechCorp Inc,New York,WH-01,2024-01-15
+P002,Wireless Mouse,Electronics,MOUSE-002,120,25,15.00,29.99,ElectroSupply,Los Angeles,WH-02,2024-01-15
+P003,Cloud Storage Pro,Software,SW-003,200,50,50.00,99.99,SoftTech Solutions,San Francisco,WH-03,2024-01-15
+P004,Desk Organizer,Office Supplies,OFF-004,75,15,12.00,24.99,OfficeMax,Chicago,WH-01,2024-01-15
+P005,Smartphone X1,Electronics,PHONE-005,30,8,600.00,899.99,MobileTech,Boston,WH-02,2024-01-15
+P006,Analytics Suite,Software,SW-006,50,10,300.00,499.99,DataSoft Inc,Seattle,WH-03,2024-01-15
+P007,Ergonomic Chair,Office Supplies,OFF-007,25,5,200.00,299.99,ErgoFurniture,New York,WH-01,2024-01-15
+P008,Tablet Air,Electronics,TAB-008,60,12,300.00,449.99,TabletWorld,Los Angeles,WH-02,2024-01-15
+P009,Project Manager Pro,Software,SW-009,100,20,120.00,199.99,ProjSoft,San Francisco,WH-03,2024-01-15
+P010,Headphones Elite,Electronics,HEAD-010,80,15,120.00,179.99,AudioTech,Chicago,WH-01,2024-01-15
+P011,Standing Desk,Office Supplies,OFF-011,15,3,400.00,599.99,DeskPro,Boston,WH-02,2024-01-15
+P012,Database Enterprise,Software,SW-012,25,5,600.00,999.99,DataEnterprise,Seattle,WH-03,2024-01-15
+P013,Monitor 4K,Electronics,MON-013,40,8,250.00,399.99,DisplayTech,New York,WH-01,2024-01-15
+P014,Paper Pack,Office Supplies,OFF-014,200,40,8.00,12.99,PaperCo,Los Angeles,WH-02,2024-01-15
+P015,Security Suite,Software,SW-015,75,15,180.00,299.99,SecuritySoft,San Francisco,WH-03,2024-01-15

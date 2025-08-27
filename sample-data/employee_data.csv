@@ -1,0 +1,16 @@
+Employee_ID,First_Name,Last_Name,Email,Department,Position,Salary,Hire_Date,Manager_ID,Location,Status
+E001,John,Smith,john.smith@company.com,Engineering,Senior Developer,85000,2020-03-15,M001,New York,Active
+E002,Sarah,Johnson,sarah.johnson@company.com,Marketing,Marketing Manager,75000,2019-07-22,M002,Los Angeles,Active
+E003,Michael,Chen,michael.chen@company.com,Engineering,Software Engineer,70000,2021-01-10,M001,San Francisco,Active
+E004,Lisa,Wang,lisa.wang@company.com,Finance,Financial Analyst,65000,2020-11-05,M003,Chicago,Active
+E005,Alex,Rodriguez,alex.rodriguez@company.com,Sales,Sales Representative,60000,2021-06-18,M004,Boston,Active
+E006,Emily,Davis,emily.davis@company.com,HR,HR Specialist,55000,2020-09-12,M005,Seattle,Active
+E007,David,Brown,david.brown@company.com,Engineering,DevOps Engineer,80000,2019-12-03,M001,New York,Active
+E008,Jessica,Wilson,jessica.wilson@company.com,Marketing,Content Creator,55000,2021-03-25,M002,Los Angeles,Active
+E009,Robert,Taylor,robert.taylor@company.com,Sales,Sales Manager,85000,2018-05-14,M004,Chicago,Active
+E010,Amanda,Anderson,amanda.anderson@company.com,Finance,Accountant,60000,2020-08-30,M003,Boston,Active
+E011,James,Thomas,james.thomas@company.com,Engineering,QA Engineer,65000,2021-02-08,M001,San Francisco,Active
+E012,Maria,Garcia,maria.garcia@company.com,HR,Recruiter,52000,2020-12-15,M005,Seattle,Active
+E013,Christopher,Lee,christopher.lee@company.com,Marketing,Digital Marketing,58000,2021-04-20,M002,New York,Active
+E014,Ashley,White,ashley.white@company.com,Sales,Account Executive,62000,2020-07-11,M004,Los Angeles,Active
+E015,Daniel,Harris,daniel.harris@company.com,Finance,Financial Controller,90000,2019-10-05,M003,Chicago,Active

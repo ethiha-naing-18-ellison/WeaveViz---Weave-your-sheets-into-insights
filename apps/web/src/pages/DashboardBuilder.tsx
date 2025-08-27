@@ -10,6 +10,7 @@ import { FieldProfiler } from '@/components/FieldProfiler';
 import { ChartBuilder } from '@/components/ChartBuilder';
 import { KpiBuilder } from '@/components/KpiBuilder';
 import { DashboardPreview } from '@/components/DashboardPreview';
+import { Footer } from '@/components/Footer';
 import { useDataStore } from '@/store/useDataStore';
 import { useAuthStore } from '@/store/useAuthStore';
 import { useDashboardStore } from '@/store/useDashboardStore';
@@ -397,7 +398,10 @@ export function DashboardBuilder() {
       <header className="border-b">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <h1 className="text-2xl font-bold text-primary">WeaveViz</h1>
+            <div className="flex items-center space-x-2">
+              <img src="/logo.png" alt="WeaveViz Logo" className="w-8 h-8" />
+              <h1 className="text-2xl font-bold text-primary">WeaveViz</h1>
+            </div>
             <nav className="flex space-x-4">
               <Button variant="ghost" className="bg-muted">
                 Dashboard
@@ -465,6 +469,9 @@ export function DashboardBuilder() {
       <main className="container mx-auto px-4 py-8">
         {renderTabContent()}
       </main>
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,17 @@
+Customer_ID,Customer_Name,Email,Phone,Company,Industry,Annual_Revenue,Customer_Since,Status,Region,Account_Manager,Last_Purchase_Date
+C001,Acme Corp,contact@acme.com,+1-555-0101,Acme Corporation,Manufacturing,5000000,2018-03-15,Active,North America,John Smith,2024-01-10
+C002,Tech Solutions,info@techsolutions.com,+1-555-0102,Tech Solutions Inc,Technology,2500000,2019-07-22,Active,North America,Sarah Johnson,2024-01-12
+C003,Global Systems,hello@globalsystems.com,+1-555-0103,Global Systems Ltd,Consulting,8000000,2017-11-05,Active,Asia Pacific,Mike Chen,2024-01-08
+C004,Innovation Labs,contact@innovationlabs.com,+1-555-0104,Innovation Labs,Research,1500000,2020-01-10,Active,Europe,Lisa Wang,2024-01-15
+C005,DataFlow Inc,info@dataflow.com,+1-555-0105,DataFlow Inc,Data Analytics,3000000,2019-05-18,Active,North America,Alex Rodriguez,2024-01-14
+C006,Smart Enterprises,hello@smartenterprises.com,+1-555-0106,Smart Enterprises,Retail,1200000,2021-02-25,Active,Asia Pacific,Mike Chen,2024-01-11
+C007,Future Works,contact@futureworks.com,+1-555-0107,Future Works,Startup,800000,2022-06-12,Active,Europe,Lisa Wang,2024-01-09
+C008,Digital Dynamics,info@digitaldynamics.com,+1-555-0108,Digital Dynamics,Digital Marketing,2000000,2020-09-30,Active,North America,John Smith,2024-01-13
+C009,Tech Horizon,hello@techhorizon.com,+1-555-0109,Tech Horizon,Software,4000000,2018-12-03,Active,Asia Pacific,Mike Chen,2024-01-07
+C010,Cloud First,contact@cloudfirst.com,+1-555-0110,Cloud First,Cloud Services,6000000,2017-08-15,Active,North America,Alex Rodriguez,2024-01-16
+C011,Metro Systems,info@metrosystems.com,+1-555-0111,Metro Systems,Transportation,3500000,2019-10-20,Active,Europe,Lisa Wang,2024-01-05
+C012,Urban Tech,hello@urbantech.com,+1-555-0112,Urban Tech,Smart Cities,1800000,2021-04-08,Active,North America,John Smith,2024-01-06
+C013,Green Energy Co,contact@greenenergy.com,+1-555-0113,Green Energy Co,Energy,7500000,2016-11-12,Active,North America,Sarah Johnson,2024-01-04
+C014,HealthTech Solutions,info@healthtech.com,+1-555-0114,HealthTech Solutions,Healthcare,4500000,2020-03-25,Active,Europe,Lisa Wang,2024-01-03
+C015,Finance Pro,hello@financepro.com,+1-555-0115,Finance Pro,Financial Services,9000000,2015-07-08,Active,North America,Alex Rodriguez,2024-01-02
+

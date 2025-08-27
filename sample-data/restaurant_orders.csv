@@ -1,0 +1,22 @@
+Order_ID,Date,Time,Customer_Name,Table_Number,Server_Name,Item_Name,Category,Quantity,Unit_Price,Total_Price,Payment_Method,Rating
+ORD001,2024-01-01,18:30,John Smith,5,Sarah Johnson,Margherita Pizza,Main Course,1,18.99,18.99,Credit Card,5
+ORD001,2024-01-01,18:30,John Smith,5,Sarah Johnson,Coke,Drinks,2,3.50,7.00,Credit Card,5
+ORD002,2024-01-01,19:15,Mike Chen,8,David Brown,Chicken Pasta,Main Course,1,16.99,16.99,Cash,4
+ORD002,2024-01-01,19:15,Mike Chen,8,David Brown,Garlic Bread,Appetizer,1,5.99,5.99,Cash,4
+ORD003,2024-01-01,20:00,Lisa Wang,12,Emily Davis,Caesar Salad,Appetizer,1,12.99,12.99,Debit Card,5
+ORD003,2024-01-01,20:00,Lisa Wang,12,Emily Davis,Grilled Salmon,Main Course,1,24.99,24.99,Debit Card,5
+ORD004,2024-01-02,18:45,Alex Rodriguez,3,Sarah Johnson,Beef Burger,Main Course,1,15.99,15.99,Credit Card,4
+ORD004,2024-01-02,18:45,Alex Rodriguez,3,Sarah Johnson,French Fries,Side Dish,1,4.99,4.99,Credit Card,4
+ORD005,2024-01-02,19:30,Jessica Wilson,7,David Brown,Vegetable Soup,Appetizer,1,8.99,8.99,Cash,3
+ORD005,2024-01-02,19:30,Jessica Wilson,7,David Brown,Chicken Wings,Appetizer,1,13.99,13.99,Cash,3
+ORD006,2024-01-02,20:15,Robert Taylor,10,Emily Davis,Steak,Main Course,1,32.99,32.99,Credit Card,5
+ORD006,2024-01-02,20:15,Robert Taylor,10,Emily Davis,Mashed Potatoes,Side Dish,1,6.99,6.99,Credit Card,5
+ORD007,2024-01-03,18:20,Amanda Anderson,2,Sarah Johnson,Shrimp Scampi,Main Course,1,22.99,22.99,Debit Card,4
+ORD007,2024-01-03,18:20,Amanda Anderson,2,Sarah Johnson,White Wine,Drinks,1,8.50,8.50,Debit Card,4
+ORD008,2024-01-03,19:00,James Thomas,6,David Brown,Mushroom Risotto,Main Course,1,19.99,19.99,Cash,5
+ORD008,2024-01-03,19:00,James Thomas,6,David Brown,Red Wine,Drinks,1,9.50,9.50,Cash,5
+ORD009,2024-01-03,19:45,Maria Garcia,9,Emily Davis,Chicken Quesadilla,Main Course,1,17.99,17.99,Credit Card,4
+ORD009,2024-01-03,19:45,Maria Garcia,9,Emily Davis,Guacamole,Appetizer,1,7.99,7.99,Credit Card,4
+ORD010,2024-01-03,20:30,Christopher Lee,4,Sarah Johnson,Lobster Tail,Main Course,1,45.99,45.99,Debit Card,5
+ORD010,2024-01-03,20:30,Christopher Lee,4,Sarah Johnson,Champagne,Drinks,1,12.00,12.00,Debit Card,5
+

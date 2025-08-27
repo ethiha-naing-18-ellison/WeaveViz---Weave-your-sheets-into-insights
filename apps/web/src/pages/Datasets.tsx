@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { FileText, Upload, Calendar, MoreHorizontal } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Footer } from '@/components/Footer';
 import { useAuthStore } from '@/store/useAuthStore';
 
 export function Datasets() {
@@ -44,7 +45,10 @@ export function Datasets() {
       <header className="border-b">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <h1 className="text-2xl font-bold text-primary">WeaveViz</h1>
+            <div className="flex items-center space-x-2">
+              <img src="/logo.png" alt="WeaveViz Logo" className="w-8 h-8" />
+              <h1 className="text-2xl font-bold text-primary">WeaveViz</h1>
+            </div>
             <nav className="flex space-x-4">
               <Button
                 variant="ghost"
@@ -142,6 +146,9 @@ export function Datasets() {
           </Card>
         </div>
       </div>
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 }
